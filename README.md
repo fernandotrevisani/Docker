@@ -1,2 +1,2 @@
-# Docker
+# Docker + nginx
 Docker + nginx
